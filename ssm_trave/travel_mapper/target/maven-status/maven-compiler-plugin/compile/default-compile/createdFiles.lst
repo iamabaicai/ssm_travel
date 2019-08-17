@@ -1,0 +1,6 @@
+com\xxx\travel\mapper\OrdersMapper.class
+com\xxx\travel\mapper\MemberMapper.class
+com\xxx\travel\mapper\ProductMapper.class
+com\xxx\travel\mapper\RoleMapper.class
+com\xxx\travel\mapper\UserMapper.class
+com\xxx\travel\mapper\TravellerMapper.class

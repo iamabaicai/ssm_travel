@@ -1,0 +1,6 @@
+com\xxx\travel\service\ProductService.class
+com\xxx\travel\service\UserService.class
+com\xxx\travel\service\impl\ProductServiceImpl.class
+com\xxx\travel\service\impl\UserServiceImpl.class
+com\xxx\travel\service\impl\OrderServiceImpl.class
+com\xxx\travel\service\OrderService.class
